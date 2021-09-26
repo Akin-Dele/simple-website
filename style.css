@@ -112,3 +112,10 @@ footer {
     padding: 10px;
     text-align: center;
 }
+nav li a:hover {
+    color: #f63232;
+}
+.images li:hover {
+    position: relative;
+    top: -4px;
+}
